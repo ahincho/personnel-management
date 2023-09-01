@@ -1,0 +1,25 @@
+package org.globant.utils.enums;
+
+public enum Section {
+
+    LIBRARY,
+    DEAN_OFFICE,
+    SECRETARY,
+    ADMISSIONS,
+    FINANCE,
+    ACADEMIC_AFFAIRS,
+    STUDENT_SERVICES,
+    IT_SERVICES,
+    FACULTY,
+    RESEARCH,
+    HUMAN_RESOURCES,
+    MAINTENANCE,
+    CAFETERIA,
+    SECURITY,
+    MARKETING,
+    SPORTS,
+    HEALTH_SERVICES,
+    EVENTS,
+    ALUMNI_RELATIONS
+
+}
