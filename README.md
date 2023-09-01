@@ -43,7 +43,6 @@ To run the application, make sure you have Java 17 and Maven installed on your s
 
   ```
   mvn compile
-
   ```
 
 
